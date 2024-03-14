@@ -1,0 +1,17 @@
+#F:/TLY/g2/SOR/code/GCN+LSTM/DBN-model/democode/BN0313test.py
+# GMT Thu Mar 14 14:03:32 2024
+# 
+radi_grade tester_a_c ri_g
+tester_a_c man drive_c
+ri_g drive_c tester_a_c man
+e_c drive_c man
+drive_c sty_man
+man sty_man
+e_ct-1 e_c
+ri_gt-1 ri_g
+sty_man
+drive_ct-1 drive_c
+mant-1 man
+npc_a_c ri_g tester_a_c
+tester_a_ct-1 tester_a_c
+npc_a_ct-1 npc_a_c
